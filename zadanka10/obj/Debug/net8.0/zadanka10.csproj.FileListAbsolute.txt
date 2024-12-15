@@ -1,0 +1,14 @@
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\bin\Debug\net8.0\zadanka10.exe
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\bin\Debug\net8.0\zadanka10.deps.json
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\bin\Debug\net8.0\zadanka10.runtimeconfig.json
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\bin\Debug\net8.0\zadanka10.dll
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\bin\Debug\net8.0\zadanka10.pdb
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\zadanka10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\zadanka10.AssemblyInfoInputs.cache
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\zadanka10.AssemblyInfo.cs
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\zadanka10.csproj.CoreCompileInputs.cache
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\zadanka10.dll
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\refint\zadanka10.dll
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\zadanka10.pdb
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\zadanka10.genruntimeconfig.cache
+C:\Users\Michał\RiderProjects\zadanka10\zadanka10\obj\Debug\net8.0\ref\zadanka10.dll
